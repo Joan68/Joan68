@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Joan aka @Joan68
+- 👀 I’m interested in Web Development
+- 💞️ I’m looking to collaborate on various Front-end & Back-end projects
+- 📫 joan.frey68@gmail.com / https://joan-frey.fr / joancontactme@gmail.com
