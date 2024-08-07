@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Joan aka @Joan68
-- 👀 I’m currently working as a Web Developer and I'm also a Consultant in System and Database administration (🐘🐧🦭). I guess we could say I'm a Full Stack Developer :) 
-- 💞️ I’m looking to collaborate on various Front-end & Back-end projects
+- ⚒️ I’m currently working as a Web Developer and I'm also a Consultant in System and Database administration (🐘🐧🦭). I guess we could say I'm a Full Stack Developer :) 
+- 👀 I’m looking to collaborate on various Front-end & Back-end projects
 - 📫 joancontactme@gmail.com
